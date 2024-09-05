@@ -12,4 +12,4 @@
 
 ## 강의노트
 
-[강의 1 - 게임수학에서 다룰 내용]()
+[강의 1 - 게임수학에서 다룰 내용](https://github.com/dknife/2024GameMath/raw/main/LN/%EA%B0%95%EC%9D%981.pdf)
