@@ -9,3 +9,7 @@
 # 2024GameMath
 
 [사전 설문조사](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlUNTgxR01RWThUSFFKVk0xNFZaRTlPMDlGRS4u)
+
+## 강의노트
+
+[강의 1 - 게임수학에서 다룰 내용]()
