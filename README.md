@@ -22,5 +22,4 @@
 
 [실습 1-0 코랩으로 파이썬 실행하기](https://colab.research.google.com/drive/1E9FZARvRfcZ9__HijnjuKlRDJaOV4x8w?usp=sharing)
 
-[실습 1-1 벡터의 가시화](https://colab.research.google.com/drive/1J4yiKSv9QE4JTTmhru-zxa5OsSasxt1X#scrollTo=_SfnEJpXwxiI)
-
+[실습 1-1 벡터의 가시화](https://colab.research.google.com/drive/1J4yiKSv9QE4JTTmhru-zxa5OsSasxt1X?usp=sharing)
