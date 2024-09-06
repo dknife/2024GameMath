@@ -10,6 +10,10 @@
 
 [사전 설문조사](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlUNTgxR01RWThUSFFKVk0xNFZaRTlPMDlGRS4u)
 
+* 실습에 사용할 도구: numpy, matplotlib
+* 가시화를 위해 만들어 둔 코드: https://github.com/dknife/linalg/blob/main/tool/visualizer.py
+
+
 ## 강의노트와 실습
 
 [강의 1 - 게임수학에서 다룰 내용](https://github.com/dknife/2024GameMath/raw/main/LN/%EA%B0%95%EC%9D%981.pdf)
