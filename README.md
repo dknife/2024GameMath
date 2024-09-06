@@ -20,5 +20,5 @@
 
 ### 실습 1
 
-[실습 1-1 벡터의 가시화]()
+[실습 1-1 벡터의 가시화](https://colab.research.google.com/drive/1J4yiKSv9QE4JTTmhru-zxa5OsSasxt1X#scrollTo=_SfnEJpXwxiI)
 
