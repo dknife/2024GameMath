@@ -26,6 +26,8 @@
 
 [실습 1-1 벡터의 가시화](https://colab.research.google.com/drive/1J4yiKSv9QE4JTTmhru-zxa5OsSasxt1X?usp=sharing)
 
+[실습 1-2 벡터의 노름]()
+
 ### 강의 2
 
 [강의 2 - 벡터와 행렬의 가시화, 정규화, 벡터의 덧셈](https://github.com/dknife/2024GameMath/blob/main/LN/%EA%B0%95%EC%9D%982.pdf)
