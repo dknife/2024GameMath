@@ -28,4 +28,4 @@
 
 ### 강의 2
 
-[강의 2 - 벡터와 행렬의 가시화, 정규화, 벡터의 덧셈]()
+[강의 2 - 벡터와 행렬의 가시화, 정규화, 벡터의 덧셈](https://github.com/dknife/2024GameMath/blob/main/LN/%EA%B0%95%EC%9D%982.pdf)
