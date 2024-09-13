@@ -31,3 +31,5 @@
 ### 강의 2
 
 [강의 2 - 벡터와 행렬의 가시화, 정규화, 벡터의 덧셈](https://github.com/dknife/2024GameMath/blob/main/LN/%EA%B0%95%EC%9D%982.pdf)
+
+[실습 2-1 벡터의 크기 변화와 정규화](https://colab.research.google.com/drive/15yfpdtyoSfah_ox7lopvhbjkppaKBbeh?usp=sharing)
