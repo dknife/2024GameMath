@@ -37,3 +37,5 @@
 [실습 2-1 벡터의 크기 변화와 정규화](https://colab.research.google.com/drive/15yfpdtyoSfah_ox7lopvhbjkppaKBbeh?usp=sharing)
 
 [실습 2-2 행렬의 가시화](https://colab.research.google.com/drive/18XFCjdqh7A2IIo2ZETu0z5Tx_RppyzHJ?usp=sharing)
+
+[실습 2-3 벡터의 합](https://colab.research.google.com/drive/1e6pCyWRGL7BYXW89Fi9ZbZM5MYUCESmr?usp=sharing)
