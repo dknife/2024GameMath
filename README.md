@@ -26,7 +26,7 @@
 
 [실습 1-1 벡터의 가시화](https://colab.research.google.com/drive/1J4yiKSv9QE4JTTmhru-zxa5OsSasxt1X?usp=sharing)
 
-[실습 1-2 벡터의 노름]()
+[실습 1-2 벡터의 노름](https://colab.research.google.com/drive/1OJlBJ9KbW1G39Y-OfPl_uPyno_85qMwT)
 
 ### 강의 2
 
