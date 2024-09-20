@@ -45,7 +45,7 @@
 [강의 노트 3](https://github.com/dknife/2024GameMath/blob/main/LN/%EA%B0%95%EC%9D%983.pdf)
 
 
-[실습 3-1 ]()
+[실습 3-1 점곱의 계산](https://colab.research.google.com/drive/1pc5iscXMkwbOwyIjW7d0mPjvbkDng-l9?usp=sharing)
 
 [실습 3-2 ]()
 
