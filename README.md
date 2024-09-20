@@ -43,3 +43,13 @@
 ### 강의 3 벡터의 곱셈, 그 기하적 의미
 
 [강의 노트 3](https://github.com/dknife/2024GameMath/blob/main/LN/%EA%B0%95%EC%9D%983.pdf)
+
+
+[실습 3-1 벡터의 크기 변화와 정규화]()
+
+[실습 3-2 행렬의 가시화]()
+
+[실습 3-3 벡터의 합]()
+
+
+https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlURUU0SzMzUjRZM0MzU0xGQzE1Mk9KSjBGQy4u
