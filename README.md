@@ -47,9 +47,7 @@
 
 [실습 3-1 점곱의 계산](https://colab.research.google.com/drive/1pc5iscXMkwbOwyIjW7d0mPjvbkDng-l9?usp=sharing)
 
-[실습 3-2 ]()
-
-[실습 3-3 ]()
+[실습 3-2 점곱의 응용](https://colab.research.google.com/drive/1XMGoFTh57FdE4rGiAoYms61CZ3rry94U?usp=sharing)
 
 
 [수시 평가 점검](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlURUU0SzMzUjRZM0MzU0xGQzE1Mk9KSjBGQy4u)
