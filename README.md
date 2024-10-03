@@ -54,4 +54,4 @@
 
 ### 강의 4 벡터의 가위곱
 
-[강의 노트 4]()
+[강의 노트 4](https://github.com/dknife/2024GameMath/raw/main/LN/%EA%B0%95%EC%9D%984_%EB%B2%A1%ED%84%B0%EC%9D%98%EA%B0%80%EC%9C%84%EA%B3%B1.pdf)
