@@ -49,5 +49,9 @@
 
 [실습 3-2 점곱의 응용](https://colab.research.google.com/drive/1XMGoFTh57FdE4rGiAoYms61CZ3rry94U?usp=sharing)
 
-
 [수시 평가 점검](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlURUU0SzMzUjRZM0MzU0xGQzE1Mk9KSjBGQy4u)
+
+
+### 강의 4 벡터의 가위곱
+
+[강의 노트 4]()
