@@ -51,6 +51,8 @@
 
 [수시 평가 점검](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlURUU0SzMzUjRZM0MzU0xGQzE1Mk9KSjBGQy4u)
 
+[수시 평가 채점 결과]()
+
 
 ### 강의 4 벡터의 가위곱
 
