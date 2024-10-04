@@ -49,7 +49,7 @@
 
 [실습 3-2 점곱의 응용](https://colab.research.google.com/drive/1XMGoFTh57FdE4rGiAoYms61CZ3rry94U?usp=sharing)
 
-[수시 평가 점검](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlURUU0SzMzUjRZM0MzU0xGQzE1Mk9KSjBGQy4u)
+[수시 평가 점검](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlURUU0SzMzUjRZM0MzU0xGQzE1Mk9KSjBGQy4u)  [문제]()
 
 [수시 평가 채점 결과](https://github.com/dknife/2024GameMath/blob/main/Test/%EC%88%98%EC%8B%9C%ED%8F%89%EA%B0%801_%EA%B2%8C%EC%8B%9C%EC%9A%A9.png)
 
