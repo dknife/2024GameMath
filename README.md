@@ -57,3 +57,9 @@
 ### 강의 4 벡터의 가위곱
 
 [강의 노트 4](https://github.com/dknife/2024GameMath/raw/main/LN/%EA%B0%95%EC%9D%984_%EB%B2%A1%ED%84%B0%EC%9D%98%EA%B0%80%EC%9C%84%EA%B3%B1.pdf)
+
+[실습 4-1 가위곱의 이해](https://colab.research.google.com/drive/1gZ_4i-BmOvaGWUfvoNoLRN0Fxsq5wVvh)
+
+[실습 4-2 가위곱의 응용](https://colab.research.google.com/drive/1gZ_4i-BmOvaGWUfvoNoLRN0Fxsq5wVvh)
+
+
