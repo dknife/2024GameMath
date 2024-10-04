@@ -60,6 +60,6 @@
 
 [실습 4-1 가위곱의 이해](https://colab.research.google.com/drive/1gZ_4i-BmOvaGWUfvoNoLRN0Fxsq5wVvh)
 
-[실습 4-2 가위곱의 응용](https://colab.research.google.com/drive/1gZ_4i-BmOvaGWUfvoNoLRN0Fxsq5wVvh)
+[실습 4-2 가위곱의 응용](https://colab.research.google.com/drive/1pGASXNPdvS-CyB8lPMwuUtsJwKX65trp?usp=sharing)
 
 
