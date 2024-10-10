@@ -63,3 +63,7 @@
 [실습 4-2 가위곱의 응용](https://colab.research.google.com/drive/1pGASXNPdvS-CyB8lPMwuUtsJwKX65trp?usp=sharing)
 
 
+
+### 강의 5 벡터의 응용
+
+[강의 노트 5]()
