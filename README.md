@@ -67,3 +67,5 @@
 ### 강의 5 벡터의 응용
 
 [강의 노트 5](https://github.com/dknife/2024GameMath/raw/main/LN/%EA%B0%95%EC%9D%985_%EB%B2%A1%ED%84%B0%EC%9D%98%EC%9D%91%EC%9A%A9.pdf)
+
+[실습 5-1 벡터 연산의 응용 - 충돌감지](https://colab.research.google.com/drive/1iewjdiasgLQV0KluiIwGiwqovzUT_DnT)
