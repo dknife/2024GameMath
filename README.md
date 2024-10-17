@@ -69,3 +69,7 @@
 [강의 노트 5](https://github.com/dknife/2024GameMath/raw/main/LN/%EA%B0%95%EC%9D%985_%EB%B2%A1%ED%84%B0%EC%9D%98%EC%9D%91%EC%9A%A9.pdf)
 
 [실습 5-1 벡터 연산의 응용 - 충돌감지](https://colab.research.google.com/drive/1iewjdiasgLQV0KluiIwGiwqovzUT_DnT)
+
+### 강의 6 행렬의 이해
+
+[강의 노트 6](https://github.com/dknife/2024GameMath/raw/main/LN/%EA%B0%95%EC%9D%986_%ED%96%89%EB%A0%AC%EC%9D%98%EC%9D%B4%ED%95%B4.pdf)
