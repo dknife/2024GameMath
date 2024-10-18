@@ -75,3 +75,5 @@
 [강의 노트 6](https://github.com/dknife/2024GameMath/raw/main/LN/%EA%B0%95%EC%9D%986_%ED%96%89%EB%A0%AC%EC%9D%98%EC%9D%B4%ED%95%B4.pdf)
 
 [실습 6-1 행렬의 연산](https://colab.research.google.com/drive/120XTf9WCwnrMu7Z6lxbueeBo3Hdfuo_O?usp=sharing)
+
+[실습 6-2 행렬 곱의 구현](https://colab.research.google.com/drive/1VkiPGxy-eBBHaBO9R2IJAtHw1zEB6GSD?usp=sharing)
