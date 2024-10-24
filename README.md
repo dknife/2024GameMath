@@ -14,7 +14,7 @@
 * 가시화를 위해 만들어 둔 코드: https://github.com/dknife/linalg/blob/main/tool/visualizer.py
 
 ## 중간고사 
-[중간고사 문제지](https://forms.office.com/r/Dat1Lp7eeC)
+[중간고사 문제지](https://forms.office.com/r/Dat1Lp7eeC)         10월 25일 11:00부터 응답이 가능합니다.
 
 ## 강의노트와 실습
 
