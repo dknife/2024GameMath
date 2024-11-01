@@ -23,6 +23,8 @@
 
 [중간고사 채점 결과](https://github.com/dknife/2024GameMath/blob/main/Test/2024%20%EA%B2%8C%EC%9E%84%EC%88%98%ED%95%99%20%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC%20-%20%EA%B2%8C%EC%8B%9C%EC%9A%A9.pdf)
 
+[중간고사 답변 분석](https://github.com/dknife/2024GameMath/blob/main/Test/2024mid_analysis.pdf)
+
 ## 강의노트와 실습
 
 ### 강의 1 게임수학에서 다룰 내용
