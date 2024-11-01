@@ -84,3 +84,9 @@
 [실습 6-1 행렬의 연산](https://colab.research.google.com/drive/120XTf9WCwnrMu7Z6lxbueeBo3Hdfuo_O?usp=sharing)
 
 [실습 6-2 행렬 곱의 구현](https://colab.research.google.com/drive/1VkiPGxy-eBBHaBO9R2IJAtHw1zEB6GSD?usp=sharing)
+
+
+### 강의 7 행렬식과 역행렬
+
+[강의 노트 7](https://github.com/dknife/2024GameMath/blob/main/LN/%EA%B0%95%EC%9D%987_%ED%96%89%EB%A0%AC%EC%8B%9D%EA%B3%BC%EC%97%AD%ED%96%89%EB%A0%AC.pdf)
+
