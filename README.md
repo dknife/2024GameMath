@@ -21,7 +21,7 @@
 ## 중간고사 
 [중간고사 문제지](https://forms.office.com/r/Dat1Lp7eeC)         10월 25일 11:00부터 응답이 가능합니다.
 
-[중간고사 채점 결과]
+[중간고사 채점 결과](https://github.com/dknife/2024GameMath/blob/main/Test/2024%20%EA%B2%8C%EC%9E%84%EC%88%98%ED%95%99%20%EC%A4%91%EA%B0%84%EA%B3%A0%EC%82%AC%20-%20%EA%B2%8C%EC%8B%9C%EC%9A%A9.pdf)
 
 ## 강의노트와 실습
 
