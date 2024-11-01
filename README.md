@@ -87,6 +87,7 @@
 
 [실습 6-2 행렬 곱의 구현](https://colab.research.google.com/drive/1VkiPGxy-eBBHaBO9R2IJAtHw1zEB6GSD?usp=sharing)
 
+[실습 6-3 행렬과 행렬 곱의 가시화](https://colab.research.google.com/drive/19CuXvkGeF_wxa1By_nf0KzH8CYQSaxBA?usp=sharing)
 
 ### 강의 7 행렬식과 역행렬
 
