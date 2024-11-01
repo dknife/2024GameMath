@@ -13,8 +13,15 @@
 * 실습에 사용할 도구: numpy, matplotlib
 * 가시화를 위해 만들어 둔 코드: https://github.com/dknife/linalg/blob/main/tool/visualizer.py
 
+## 수시 평가
+[수시 평가 점검](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlURUU0SzMzUjRZM0MzU0xGQzE1Mk9KSjBGQy4u)                     [문제지](https://github.com/dknife/2024GameMath/blob/main/Test/%EC%88%98%EC%8B%9C%ED%8F%89%EA%B0%801_%EB%AC%B8%EC%A0%9C.png)
+
+[수시 평가 채점 결과](https://github.com/dknife/2024GameMath/blob/main/Test/%EC%88%98%EC%8B%9C%ED%8F%89%EA%B0%801_%EA%B2%8C%EC%8B%9C%EC%9A%A9.png)
+
 ## 중간고사 
 [중간고사 문제지](https://forms.office.com/r/Dat1Lp7eeC)         10월 25일 11:00부터 응답이 가능합니다.
+
+[중간고사 채점 결과]
 
 ## 강의노트와 실습
 
@@ -51,9 +58,7 @@
 
 [실습 3-2 점곱의 응용](https://colab.research.google.com/drive/1XMGoFTh57FdE4rGiAoYms61CZ3rry94U?usp=sharing)
 
-[수시 평가 점검](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__fVSsTlURUU0SzMzUjRZM0MzU0xGQzE1Mk9KSjBGQy4u)                     [문제지](https://github.com/dknife/2024GameMath/blob/main/Test/%EC%88%98%EC%8B%9C%ED%8F%89%EA%B0%801_%EB%AC%B8%EC%A0%9C.png)
 
-[수시 평가 채점 결과](https://github.com/dknife/2024GameMath/blob/main/Test/%EC%88%98%EC%8B%9C%ED%8F%89%EA%B0%801_%EA%B2%8C%EC%8B%9C%EC%9A%A9.png)
 
 
 ### 강의 4 벡터의 가위곱
