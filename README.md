@@ -93,3 +93,7 @@
 
 [강의 노트 7](https://github.com/dknife/2024GameMath/blob/main/LN/%EA%B0%95%EC%9D%987_%ED%96%89%EB%A0%AC%EC%8B%9D%EA%B3%BC%EC%97%AD%ED%96%89%EB%A0%AC.pdf)
 
+### 강의 8 행렬과 변환
+
+[강의 노트 8](https://github.com/dknife/2024GameMath/blob/main/LN/%EA%B0%95%EC%9D%988_%ED%96%89%EB%A0%AC%EA%B3%BC%EB%B3%80%ED%99%98.pdf)
+
