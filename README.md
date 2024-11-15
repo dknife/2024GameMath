@@ -99,3 +99,5 @@
 
 [강의 노트 8](https://github.com/dknife/2024GameMath/raw/main/LN/%EA%B0%95%EC%9D%988_%ED%96%89%EB%A0%AC%EA%B3%BC%EB%B3%80%ED%99%98.pdf)
 
+[실습 8-1 변환행렬의 이해](https://colab.research.google.com/drive/1d-dCznx84p-1XnTrIeZOHLnwQ0CsIfnl?usp=sharing)
+
