@@ -101,3 +101,6 @@
 
 [실습 8-1 변환행렬의 이해](https://colab.research.google.com/drive/1d-dCznx84p-1XnTrIeZOHLnwQ0CsIfnl?usp=sharing)
 
+### 강의 9 복소수와 회전 - 쿼터니언
+
+[강의노트 9]()
