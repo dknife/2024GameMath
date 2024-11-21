@@ -103,4 +103,4 @@
 
 ### 강의 9 복소수와 회전 - 쿼터니언
 
-[강의노트 9](https://github.com/dknife/2024GameMath/raw/main/LN/%EA%B0%95%EC%9D%989_%EB%B3%B5%EC%86%8C%EC%88%98%EC%99%80%ED%9A%8C%EC%A0%84_%EC%BF%BC%ED%84%B0%EB%8B%88%EC%96%B8.pdf)
+[강의노트 9 복소수와 회전, 그리고 쿼터니언](https://github.com/dknife/2024GameMath/raw/main/LN/%EA%B0%95%EC%9D%989_%EB%B3%B5%EC%86%8C%EC%88%98%EC%99%80%ED%9A%8C%EC%A0%84_%EC%BF%BC%ED%84%B0%EB%8B%88%EC%96%B8.pdf)
