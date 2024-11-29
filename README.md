@@ -108,3 +108,5 @@
 [실습 1: 복소수와 변환](https://colab.research.google.com/drive/1sxV6MqPuTwNcU8Vbdqse7xU7PhNtUavT#scrollTo=d18aOHB8j7r2)
 
 [실습 2: 쿼터니언의 연산](https://colab.research.google.com/drive/1M6bmKLjNbKZFU3cwh6yLq99csaob-i1W?usp=sharing)
+
+[실습 3: 쿼터니언을 이용한 회전](https://colab.research.google.com/drive/1PeZCxArhj9OE8KCFDbTsakTbWUIp9EtH#scrollTo=izuTPOcd3NzE)
