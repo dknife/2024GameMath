@@ -25,6 +25,9 @@
 
 [중간고사 답변 분석](https://github.com/dknife/2024GameMath/blob/main/Test/2024GM_midanalysis.pdf)
 
+## 기말고사
+[기말고사 문제지](https://forms.office.com/r/ANXmGTUqKv) 2024.12.20 10:00 오픈
+
 ## 강의노트와 실습
 
 ### 강의 1 게임수학에서 다룰 내용
